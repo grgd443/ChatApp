@@ -1,0 +1,19 @@
+{
+  "Status": 1,
+  "ErrorMessage": "",
+  "Contacts": [
+    {
+      "id": 0,
+      "name": "Nadine"
+    },
+    {
+      "id":1,
+      "name": "Elio"
+    }
+    ,
+    {
+      "id": 2,
+      "name": "Antoine"
+    }
+  ]
+}
